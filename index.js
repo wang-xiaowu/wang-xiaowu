@@ -29,7 +29,7 @@ const readme = `\
 
 <img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
 
-⏰ Updated on ${formatDate(Date())}
+⏰ Updated on ${formatDate(new Date())}
 
 ---
 
