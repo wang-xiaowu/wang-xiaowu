@@ -4,6 +4,17 @@ const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
 const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear)
 const progressBarOfThisYear = generateProgressBar()
 
+function formatDate(date) {
+    const y = date.getFullYear();
+    let m = date.getMonth() + 1;
+    m = m < 10 ? ('0' + m) : m;
+    let d = date.getDate();
+    d = d < 10 ? ('0' + d) : d;
+    const h = date.getHours();
+    let minute = date.getMinutes();
+    minute = minute < 10 ? ('0' + minute) : minute;
+    return y + '-' + m + '-' + d+' '+h+':'+minute;
+}
 function generateProgressBar() {
     const progressBarCapacity = 30
     const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
@@ -18,7 +29,7 @@ const readme = `\
 
 <img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
 
-⏰ Updated on ${new Date().toLocaleTimeString("zh")}
+⏰ Updated on ${formatDate(Date())}
 
 ---
 
