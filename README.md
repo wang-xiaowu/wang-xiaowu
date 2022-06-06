@@ -2,14 +2,14 @@
 
 <img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
 
-⏰ Updated on 2022/06/06 15:00:47
+⏰ Updated on 2022/06/06 15:35:24
 
 ---
 
 ### Hi there 👋 
 ### I'm xiaowu, an ordinary programmer. 
 
-⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 42.91 %
+⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 42.92 %
 
 ### My GitHub Contributions    
 
@@ -22,7 +22,7 @@
 
 ### Talking about Personal Stuffs  
 
-- 🔭 I’m currently striving for a better life in Guangzhou.     
+- 🔭 I’m currently striving for a better life in Dalian.     
 - 🤔 My blog 👉 https://wang-xiaowu.github.io/         
 - 📫 My E-mail: 943915349@qq.com          
 - 🔧 My Power Tools: </br>   
