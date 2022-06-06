@@ -4,24 +4,27 @@ const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
 const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear)
 const progressBarOfThisYear = generateProgressBar()
 
-function formatDate(date) {
-    const y = date.getFullYear();
-    let m = date.getMonth() + 1;
-    m = m < 10 ? ('0' + m) : m;
-    let d = date.getDate();
-    d = d < 10 ? ('0' + d) : d;
-    const h = date.getHours();
-    let minute = date.getMinutes();
-    minute = minute < 10 ? ('0' + minute) : minute;
-    return y + '-' + m + '-' + d+' '+h+':'+minute;
+function isZero(x) {
+  return x < 10 ? '0' + x : x
 }
+
+function formatDate(time) {
+  const y = time.getFullYear();
+  const m = time.getMonth() + 1;
+  let d = time.getDate();
+  const h = time.getHours();
+  const mm = time.getMinutes();
+  const s = time.getSeconds();
+  return y + '/' + isZero(m) + '/' + isZero(d) + ' ' + isZero(h) + ':' + isZero(mm) + ':' + isZero(s);
+}
+
 function generateProgressBar() {
-    const progressBarCapacity = 30
-    const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
-    const progressBar =
-      '█'.repeat(passedProgressBarIndex) +
-      '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
-    return `{ ${progressBar} }`
+  const progressBarCapacity = 30
+  const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
+  const progressBar =
+    '█'.repeat(passedProgressBarIndex) +
+    '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
+  return `{ ${progressBar} }`
 }
 
 const readme = `\
