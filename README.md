@@ -4,7 +4,7 @@
 
 ---
 
-⏰ Updated on ${new Date().toUTCString()}
+⏰ Updated on Mon, 06 Jun 2022 12:15:22 GMT
 
 ---
 ### My GitHub Contributions
@@ -18,7 +18,7 @@
 
 I'm xiaowu, an ordinary programmer.
 
-- 🔭 I’m currently striving for a better life in Guangzhou.
+- 🔭 I’m currently striving for a better life in Dalian.
 - 🤔 My blog 👉 https://wang-xiaowu.github.io/
 - 📫 My E-mail: 943915349@qq.com
 - 🔧 My Power Tools: </br>   
