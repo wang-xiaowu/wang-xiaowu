@@ -1,12 +1,16 @@
-### Hi there 👋
+![me](https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/result.gif)
 
-⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 42.90 %
+<img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
 
----
-
-⏰ Updated on Mon, 06 Jun 2022 14:11:13 GMT
+⏰ Updated on 14:36:51
 
 ---
+
+### Hi there 👋 
+### I'm xiaowu, an ordinary programmer. 
+
+⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 42.91 %
+
 ### My GitHub Contributions    
 
 ![](https://raw.githubusercontent.com/wang-xiaowu/wang-xiaowu/main/assets/github-contribution-grid-snake.svg)          
@@ -16,7 +20,7 @@
 [![Wang-xiaowu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wang-xiaowu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Wang-xiaowu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wang-xiaowu&layout=compact&hide_border=true&langs_count=10)
 
-I'm xiaowu, an ordinary programmer.    
+### Talking about Personal Stuffs  
 
 - 🔭 I’m currently striving for a better life in Guangzhou.     
 - 🤔 My blog 👉 https://wang-xiaowu.github.io/         
