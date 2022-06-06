@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 概览数据
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wang-xiaowu&show_icons=true&theme=dark&count_private=true)
+
+### 语言
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wang-xiaowu&theme=dark&layout=compact)
+
