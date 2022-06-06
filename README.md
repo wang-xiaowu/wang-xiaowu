@@ -1,30 +1,30 @@
 ### Hi there 👋
 
-⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 42.81 %
+⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 42.90 %
 
 ---
 
-⏰ Updated on Mon, 06 Jun 2022 12:15:22 GMT
+⏰ Updated on Mon, 06 Jun 2022 14:11:13 GMT
 
 ---
-### My GitHub Contributions
+### My GitHub Contributions    
 
-![](https://raw.githubusercontent.com/wang-xiaowu/wang-xiaowu/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/wang-xiaowu/wang-xiaowu/main/assets/github-contribution-grid-snake.svg)          
 
-### About me
+### About me      
 
 [![Wang-xiaowu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wang-xiaowu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Wang-xiaowu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wang-xiaowu&layout=compact&hide_border=true&langs_count=10)
 
-I'm xiaowu, an ordinary programmer.
+I'm xiaowu, an ordinary programmer.    
 
-- 🔭 I’m currently striving for a better life in Dalian.
-- 🤔 My blog 👉 https://wang-xiaowu.github.io/
-- 📫 My E-mail: 943915349@qq.com
+- 🔭 I’m currently striving for a better life in Guangzhou.     
+- 🤔 My blog 👉 https://wang-xiaowu.github.io/         
+- 📫 My E-mail: 943915349@qq.com          
 - 🔧 My Power Tools: </br>   
 ![Idea](https://img.shields.io/badge/-Idea-black?style=plastic&logo=intellijidea)     
 ![Webstorm](https://img.shields.io/badge/-Webstorm-red?style=plastic&logo=webstorm)     
 ![DataGrip](https://img.shields.io/badge/-DataGrip-blue?style=plastic&logo=datagrip)     
 ![DataGrip](https://img.shields.io/badge/-GoLand-green?style=plastic&logo=goland)     
-![Git](https://img.shields.io/badge/-Git-yellow?style=plastic&logo=git)    
+![Git](https://img.shields.io/badge/-Git-yellow?style=plastic&logo=git)  
 
