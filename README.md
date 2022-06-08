@@ -2,14 +2,14 @@
 
 <img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
 
-⏰ Updated on 2022/06/08 00:55:04
+⏰ Updated on 2022/06/08 03:29:32
 
 ---
 
 ### Hi there 👋 
 ### I'm xiaowu, an ordinary programmer. 
 
-⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 43.30 %
+⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 43.33 %
 
 ### My GitHub Contributions    
 
@@ -17,8 +17,23 @@
 
 ### About me      
 
-[![Wang-xiaowu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wang-xiaowu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Wang-xiaowu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wang-xiaowu&layout=compact&hide_border=true&langs_count=10)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wang-xiaowu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wang-xiaowu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wang-xiaowu&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+### Repositories
+
+<a href="https://github.com/behappy-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-screw-doc&theme=buefy" />
+</a>
+<a href="https://github.com/behappy-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-gitbook&theme=buefy" />
+</a>
+<a href="https://github.com/behappy-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-redis&theme=buefy" />
+</a>
+<a href="https://wang-xiaowu.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wang-xiaowu&repo=wang-xiaowu.github.io &theme=buefy" />
+</a>
 
 ### Talking about Personal Stuffs  
 
