@@ -62,7 +62,7 @@ const readme = `\
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-redis&theme=buefy" />
 </a>
 <a href="https://wang-xiaowu.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wang-xiaowu&repo=wang-xiaowu.github.io &theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wang-xiaowu&repo=wang-xiaowu.github.io&theme=buefy" />
 </a>
 
 ### Talking about Personal Stuffs  
