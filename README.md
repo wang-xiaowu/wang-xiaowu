@@ -2,14 +2,14 @@
 
 <img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
 
-⏰ Updated on 2022/09/02 18:15:28
+⏰ Updated on 2022/09/03 06:13:56
 
 ---
 
 ### Hi there 👋 
 ### I'm xiaowu, an ordinary programmer. 
 
-⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.06 %
+⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.19 %
 
 ### My GitHub Contributions    
 
@@ -39,7 +39,7 @@
 
 - 🔭 I’m currently striving for a better life in Dalian.     
 - 🤔 My blog 👉 https://wang-xiaowu.github.io/         
-- 📫 My E-mail: 943915349@qq.com          
+- 📫 My E-mail: a943915349@gmail.com          
 - 🔧 My Power Tools: </br>   
 ![Idea](https://img.shields.io/badge/-Idea-black?style=plastic&logo=intellijidea)     
 ![Webstorm](https://img.shields.io/badge/-Webstorm-red?style=plastic&logo=webstorm)     
