@@ -69,7 +69,7 @@ const readme = `\
 
 - 🔭 I’m currently striving for a better life in Dalian.     
 - 🤔 My blog 👉 https://wang-xiaowu.github.io/         
-- 📫 My E-mail: 943915349@qq.com          
+- 📫 My E-mail: a943915349@gmail.com          
 - 🔧 My Power Tools: </br>   
 ![Idea](https://img.shields.io/badge/-Idea-black?style=plastic&logo=intellijidea)     
 ![Webstorm](https://img.shields.io/badge/-Webstorm-red?style=plastic&logo=webstorm)     
