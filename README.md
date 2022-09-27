@@ -2,14 +2,14 @@
 
 <img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
 
-⏰ Updated on 2022/09/27 01:13:33
+⏰ Updated on 2022/09/27 02:58:45
 
 ---
 
 ### Hi there 👋 
 ### I'm xiaowu, an ordinary programmer. 
 
-⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 73.71 %
+⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 73.73 %
 
 ### My GitHub Contributions    
 
@@ -37,6 +37,7 @@
 <a href="https://github.com/behappy-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-sentinel-dashboard&theme=buefy" />
 </a>
+
 ### Talking about Personal Stuffs  
 
 - 🔭 I’m currently striving for a better life in Dalian.     
