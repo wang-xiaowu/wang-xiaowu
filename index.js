@@ -52,19 +52,19 @@ const readme = `\
 
 ### Repositories
 
-<a href="https://github.com/behappy-project">
+<a href="https://github.com/behappy-project/behappy-screw-doc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-screw-doc&theme=buefy" />
 </a>
-<a href="https://github.com/behappy-project">
+<a href="https://github.com/behappy-project/behappy-gitbook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-gitbook&theme=buefy" />
 </a>
-<a href="https://github.com/behappy-project">
+<a href="https://github.com/behappy-project/behappy-redis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-redis&theme=buefy" />
 </a>
-<a href="https://github.com/behappy-project">
+<a href="https://github.com/behappy-project/behappy-url-shortener">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-url-shortener&theme=buefy" />
 </a>
-<a href="https://github.com/behappy-project">
+<a href="https://github.com/behappy-project/behappy-sentinel-dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-sentinel-dashboard&theme=buefy" />
 </a>
 
