@@ -2,14 +2,14 @@
 
 <img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
 
-⏰ Updated on 2022/11/23 12:20:59
+⏰ Updated on 2022/11/23 18:12:52
 
 ---
 
 ### Hi there 👋 
 ### I'm xiaowu, an ordinary programmer. 
 
-⏳ Year progress { ██████████████████████████▁▁▁▁ } 89.46 %
+⏳ Year progress { ██████████████████████████▁▁▁▁ } 89.52 %
 
 ### My GitHub Contributions    
 
