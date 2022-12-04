@@ -2,14 +2,14 @@
 
 <img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
 
-⏰ Updated on 2022/12/04 00:52:11
+⏰ Updated on 2022/12/04 06:11:58
 
 ---
 
 ### Hi there 👋 
 ### I'm xiaowu, an ordinary programmer. 
 
-⏳ Year progress { ███████████████████████████▁▁▁ } 92.34 %
+⏳ Year progress { ███████████████████████████▁▁▁ } 92.40 %
 
 ### My GitHub Contributions    
 
@@ -39,6 +39,9 @@
 </a>
 <a href="https://github.com/behappy-hospital">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-hospital&repo=behappy-hospital&theme=buefy" />
+</a>
+<a href="https://github.com/behappy-project/behappy-netty-chatroom">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-netty-chatroom&theme=buefy" />
 </a>
 
 ### Talking about Personal Stuffs  
