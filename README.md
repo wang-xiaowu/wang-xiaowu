@@ -2,14 +2,14 @@
 
 <img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
 
-⏰ Updated on 2023/01/07 00:49:34
+⏰ Updated on 2023/01/07 06:11:24
 
 ---
 
 ### Hi there 👋 
 ### I'm xiaowu, an ordinary programmer. 
 
-⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 1.65 %
+⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 1.71 %
 
 ### My GitHub Contributions    
 
@@ -61,4 +61,5 @@
 ![Redis](https://img.shields.io/badge/redis-redis-lightgrey?style=social&logo=Redis)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-Docker-red?style=social&logo=docker)&nbsp;&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social) 
+
