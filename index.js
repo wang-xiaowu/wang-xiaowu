@@ -82,14 +82,14 @@ const readme = `\
 - 🔧 Languages & Frameworks & Tools & Abilities: </br>    
 
 ![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/Java-Java-green?style=social&logo=OpenJDK)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-Java-green?style=social&logo=OpenJDK)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&style=social)&nbsp;&nbsp;
-![Shell](https://img.shields.io/badge/shell-shell-brightgreen?style=social&logo=Shell)&nbsp;&nbsp;
-![Lua](https://img.shields.io/badge/lua-lua-yellow?style=social&logo=Lua)&nbsp;&nbsp;
-![Spring](https://img.shields.io/badge/spring-spring-lightgrey?style=social&logo=Spring)&nbsp;&nbsp;
+![Shell](https://img.shields.io/badge/-shell-brightgreen?style=social&logo=Shell)&nbsp;&nbsp;
+![Lua](https://img.shields.io/badge/-lua-yellow?style=social&logo=Lua)&nbsp;&nbsp;
+![Spring](https://img.shields.io/badge/-spring-lightgrey?style=social&logo=Spring)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![Redis](https://img.shields.io/badge/redis-redis-lightgrey?style=social&logo=Redis)&nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/Docker-Docker-red?style=social&logo=docker)&nbsp;&nbsp;
+![Redis](https://img.shields.io/badge/-redis-lightgrey?style=social&logo=Redis)&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-red?style=social&logo=docker)&nbsp;&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social) 
 \
