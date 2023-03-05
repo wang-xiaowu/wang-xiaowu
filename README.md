@@ -51,7 +51,7 @@
 
 - 🔭 I’m currently striving for a better life in Dalian.     
 - 🤔 My blog 👉 https://wang-xiaowu.github.io/         
-- 📫 My E-mail: a943915349@gmail.com          
+- 📫 My E-mail: wangxiaowu950330@foxmail.com          
 - 🔧 Languages & Frameworks & Tools & Abilities: </br>    
 
 ![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
