@@ -46,6 +46,9 @@
 <a href="https://github.com/behappy-project/behappy-canal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-canal&theme=buefy" width="33%"/>
 </a>
+<a href="https://github.com/behappy-project/behappy-chatgpt-assistant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-chatgpt-assistant&theme=buefy" width="33%"/>
+</a>
 
 ### Talking about Personal Stuffs  
 
