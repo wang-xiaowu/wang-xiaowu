@@ -32,6 +32,7 @@
   <a href="https://github.com/behappy-project/behappy-redis">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-redis&theme=buefy"/>
   </a>
+</div>
   <a href="https://github.com/behappy-project/behappy-url-shortener">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-url-shortener&theme=buefy"/>
   </a>
@@ -47,7 +48,6 @@
   <a href="https://github.com/behappy-project/behappy-canal">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-canal&theme=buefy"/>
   </a>
-</div>
 
 ### Talking about Personal Stuffs  
 
