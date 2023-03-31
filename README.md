@@ -22,29 +22,31 @@
 
 ### Repositories
 
-<a href="https://github.com/behappy-project/behappy-screw-doc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-screw-doc&theme=buefy" width="25%"/>
-</a>
-<a href="https://github.com/behappy-project/behappy-gitbook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-gitbook&theme=buefy" width="25%"/>
-</a>
-<a href="https://github.com/behappy-project/behappy-redis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-redis&theme=buefy" width="25%"/>
-</a>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/behappy-project/behappy-screw-doc">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-screw-doc&theme=buefy"/>
+  </a>
+  <a href="https://github.com/behappy-project/behappy-gitbook">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-gitbook&theme=buefy"/>
+  </a>
+  <a href="https://github.com/behappy-project/behappy-redis">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-redis&theme=buefy"/>
+  </a>
+</div>
 <a href="https://github.com/behappy-project/behappy-url-shortener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-url-shortener&theme=buefy" width="25%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-url-shortener&theme=buefy"/>
 </a>
 <a href="https://github.com/behappy-project/behappy-sentinel-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-sentinel-dashboard&theme=buefy" width="25%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-sentinel-dashboard&theme=buefy"/>
 </a>
 <a href="https://github.com/behappy-hospital">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-hospital&repo=behappy-hospital&theme=buefy" width="25%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-hospital&repo=behappy-hospital&theme=buefy"/>
 </a>
 <a href="https://github.com/behappy-project/behappy-netty-chatroom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-netty-chatroom&theme=buefy" width="25%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-netty-chatroom&theme=buefy"/>
 </a>
 <a href="https://github.com/behappy-project/behappy-canal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-canal&theme=buefy" width="25%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-canal&theme=buefy"/>
 </a>
 
 ### Talking about Personal Stuffs  
