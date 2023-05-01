@@ -1,4 +1,4 @@
-const thisYear = new Date().getFullYear()
+const thisYear = chinaNewDate().getFullYear()
 const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime()
 const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
 const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear)
@@ -6,6 +6,19 @@ const progressBarOfThisYear = generateProgressBar()
 
 function isZero(x) {
   return x < 10 ? '0' + x : x
+}
+
+function chinaNewDate() {
+  // 创建一个新的日期对象
+  const date = new Date();
+  // 获取当前时区与UTC时间之间的分钟差异
+  const offset = date.getTimezoneOffset();
+  // 将分钟差异转换为毫秒差异
+  const offsetMs = offset * 60 * 1000;
+  // 计算中国时区的时间
+  const chinaTime = date.getTime() + offsetMs + (8 * 60 * 60 * 1000);
+  // 创建一个新的日期对象，以中国时区为基础
+  return new Date(chinaTime);
 }
 
 function formatDate(time) {
@@ -32,7 +45,7 @@ const readme = `\
 
 <img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
 
-⏰ Updated on ${formatDate(new Date())}
+⏰ Updated on ${formatDate(chinaNewDate())}
 
 ---
 
