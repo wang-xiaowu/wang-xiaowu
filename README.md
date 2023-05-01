@@ -57,14 +57,17 @@
 - 📫 My E-mail: wangxiaowu950330@foxmail.com          
 - 🔧 Languages & Frameworks & Tools & Abilities: </br>    
 
+
 ![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-green?style=social&logo=OpenJDK)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&style=social)&nbsp;&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-brightgreen?style=social&logo=Shell)&nbsp;&nbsp;
-![Lua](https://img.shields.io/badge/-Lua-yellow?style=social&logo=Lua)&nbsp;&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-black?logo=nginx&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-lightgrey?style=social&logo=Spring)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Elastic Stack](https://img.shields.io/badge/-Elastic%20Stack-black?logo=elasticsearch&style=social)&nbsp;&nbsp;
+![MQ](https://img.shields.io/badge/-MQ-black?logo=apachekafka&style=social)&nbsp;&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-lightgrey?style=social&logo=Redis)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-red?style=social&logo=docker)&nbsp;&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)&nbsp;&nbsp;
