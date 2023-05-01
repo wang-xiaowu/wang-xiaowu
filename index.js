@@ -89,6 +89,7 @@ const readme = `\
 
 ![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-green?style=social&logo=OpenJDK)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&style=social)&nbsp;&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-brightgreen?style=social&logo=Shell)&nbsp;&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-yellow?style=social&logo=Lua)&nbsp;&nbsp;
