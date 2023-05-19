@@ -92,6 +92,9 @@ const readme = `\
 <a href="https://github.com/behappy-project/behappy-chatgpt-assistant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-chatgpt-assistant&theme=buefy" width="33%"/>
 </a>
+<a href="https://github.com/behappy-project/behappy-test-automation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-test-automation&theme=buefy" width="33%"/>
+</a>
 
 ### Talking about Personal Stuffs  
 
