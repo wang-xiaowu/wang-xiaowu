@@ -58,11 +58,6 @@ const readme = `\
 
 ![](https://raw.githubusercontent.com/wang-xiaowu/wang-xiaowu/main/assets/github-contribution-grid-snake.svg)          
 
-### About me      
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wang-xiaowu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wang-xiaowu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wang-xiaowu&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 ### Repositories
 
 <a href="https://github.com/behappy-project/behappy-screw-doc">
