@@ -2,14 +2,14 @@
 
 <img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
 
-⏰ Updated on 2023/07/19 09:47:52
+⏰ Updated on 2023/07/19 14:12:13
 
 ---
 
 ### Hi there 👋 
 ### I'm xiaowu, an ordinary programmer. 
 
-⏳ Year progress { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 54.54 %
+⏳ Year progress { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 54.59 %
 
 ### My GitHub Contributions    
 
@@ -49,6 +49,9 @@
 </a>
 <a href="https://github.com/behappy-other/orange">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-other&repo=orange&theme=buefy" width="33%"/>
+</a>
+<a href="https://github.com/behappy-gulimall">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-gulimall&repo=behappy-gulimall&theme=buefy" width="33%"/>
 </a>
 
 ### Talking about Personal Stuffs  
