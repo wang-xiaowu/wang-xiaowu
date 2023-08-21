@@ -100,7 +100,7 @@ const readme = `\
 ### Talking about Personal Stuffs  
 
 - 🔭 I’m currently striving for a better life in Dalian.     
-- 🤔 My blog 👉 https://wang-xiaowu.github.io/         
+- 🤔 My blog 👉 https://www.xiaowu95.wang/         
 - 📫 My E-mail: wangxiaowu950330@foxmail.com          
 - 🔧 Languages & Frameworks & Tools & Abilities: </br>    
 
