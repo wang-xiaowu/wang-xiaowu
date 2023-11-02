@@ -99,6 +99,9 @@ const readme = `\
 <a href="https://github.com/behappy-project/behappy-redirect">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-redirect&theme=buefy" width="33%"/>
 </a>
+<a href="https://github.com/behappy-other/nginx-config-reload">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-other&repo=nginx-config-reload&theme=buefy" width="33%"/>
+</a>
 
 ### Talking about Personal Stuffs  
 
