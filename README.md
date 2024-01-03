@@ -2,14 +2,14 @@
 
 <img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
 
-⏰ Updated on 2024/01/03 14:12:36
+⏰ Updated on 2024/01/03 20:17:14
 
 ---
 
 ### Hi there 👋 
 ### I'm xiaowu, an ordinary programmer. 
 
-⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 0.62 %
+⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 0.69 %
 
 ### My GitHub Contributions    
 
@@ -62,7 +62,7 @@
 
 ### Talking about Personal Stuffs  
 
-- 🔭 Tomorrow will be better, Everything will be fine.
+- 🔭 Tomorrow will be better, Everything will be fine.     
 - 🤔 My blog 👉 https://www.xiaowu95.wang/         
 - 📫 My E-mail: wangxiaowu950330@foxmail.com          
 - 🔧 Languages & Frameworks & Tools & Abilities: </br>    
