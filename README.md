@@ -2,14 +2,14 @@
 
 <img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
 
-⏰ Updated on 2024/02/05 14:18:15
+⏰ Updated on 2024/02/05 14:21:53
 
 ---
 
 ### Hi there 👋 
 ### I'm xiaowu, an ordinary programmer. 
 
-⏳ Year progress { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 9.63 %
+⏳ Year progress { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 9.64 %
 
 ### My GitHub Contributions    
 
@@ -70,7 +70,7 @@
 ![Java](https://img.shields.io/badge/-Java-green?style=social&logo=OpenJDK)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
 ![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
-![Nodejs](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&style=social)&nbsp;&nbsp;
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?logo=JavaScript&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-lightgrey?style=social&logo=Spring)&nbsp;&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-black?logo=nginx&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
@@ -79,6 +79,6 @@
 ![Redis](https://img.shields.io/badge/-Redis-lightgrey?style=social&logo=Redis)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-red?style=social&logo=docker)&nbsp;&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)&nbsp;&nbsp;
-![ServiceMesh](https://img.shields.io/badge/-Istio-black?logo=istio&style=social)&nbsp;&nbsp;
+![ServiceMesh](https://img.shields.io/badge/-ServiceMesh-black?logo=istio&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social) 
 
