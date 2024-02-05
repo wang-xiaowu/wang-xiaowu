@@ -122,7 +122,7 @@ const readme = `\
 ![Redis](https://img.shields.io/badge/-Redis-lightgrey?style=social&logo=Redis)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-red?style=social&logo=docker)&nbsp;&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)&nbsp;&nbsp;
-![ServiceMesh](https://img.shields.io/badge/-Istio-black?logo=istio&style=social)&nbsp;&nbsp;
+![ServiceMesh](https://img.shields.io/badge/-ServiceMesh-black?logo=istio&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social) 
 \
 `
