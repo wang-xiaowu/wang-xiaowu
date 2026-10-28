@@ -105,8 +105,7 @@ const readme = `\
 
 ### Talking about Personal Stuffs  
 
-- 🔭 Tomorrow will be better, Everything will be fine.     
-- 🤔 My blog 👉 https://www.xiaowu95.wang/         
+- 🔭 Tomorrow will be better, Everything will be fine.         
 - 📫 My E-mail: wangxiaowu950330@foxmail.com          
 - 🔧 Languages & Frameworks & Tools & Abilities: </br>    
 
